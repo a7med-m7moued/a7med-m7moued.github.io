@@ -1,1 +1,10 @@
-GIF89a; <?php echo "hii"; ?>
+GIF89a; <html>
+
+<body>
+<script>
+alert(8)
+</script>
+
+</body>
+
+</html>
